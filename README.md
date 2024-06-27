@@ -24,3 +24,5 @@ Outcome:
 
 If all processes can finish (i.e., finish list contains all True), there is no deadlock
 Otherwise, it prints "Deadlock possible"
+
+Run os_2.py to check
